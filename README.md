@@ -1,5 +1,5 @@
 # Login con Local Storage
-** Este proyecto es un sistema de inicio de sesión simple que utiliza el almacenamiento local del browser para guardar la información de los usuarios registrados. **
+**Este proyecto es un sistema de inicio de sesión simple que utiliza el almacenamiento local del browser para guardar la información de los usuarios registrados.**
 
 Funcionalidades
 Registro de usuarios: Los usuarios pueden registrarse proporcionando un nombre de usuario, un correo electrónico y una contraseña.
