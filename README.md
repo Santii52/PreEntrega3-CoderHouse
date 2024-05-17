@@ -1,4 +1,4 @@
-#Login con Local Storage
+#Login con Local Storage#
 Este proyecto es un sistema de inicio de sesión simple que utiliza el almacenamiento local del browser para guardar la información de los usuarios registrados.
 
 Funcionalidades
